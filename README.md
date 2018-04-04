@@ -1,3 +1,3 @@
-# Mandelbrot_set
+# mandelbrot-set
 
-readme
+
